@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmbracoV7", "UmbracoV7\UmbracoV7.csproj", "{26D78103-E86D-4EA6-8281-C8A20AF9E3CB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmbracoV8", "UmbracoV8\UmbracoV8.csproj", "{CD4A57E4-736C-431A-9507-1D0AADA97A1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tester", "Tester\Tester.csproj", "{0731D108-C92B-4694-8733-C01FDDFE0F05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{26D78103-E86D-4EA6-8281-C8A20AF9E3CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26D78103-E86D-4EA6-8281-C8A20AF9E3CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26D78103-E86D-4EA6-8281-C8A20AF9E3CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD4A57E4-736C-431A-9507-1D0AADA97A1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD4A57E4-736C-431A-9507-1D0AADA97A1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD4A57E4-736C-431A-9507-1D0AADA97A1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD4A57E4-736C-431A-9507-1D0AADA97A1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0731D108-C92B-4694-8733-C01FDDFE0F05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0731D108-C92B-4694-8733-C01FDDFE0F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0731D108-C92B-4694-8733-C01FDDFE0F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0731D108-C92B-4694-8733-C01FDDFE0F05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
